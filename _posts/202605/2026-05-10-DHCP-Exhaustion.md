@@ -5,7 +5,7 @@ description: >-
 date: 2026-05-10 00:00:00 +0530
 categories: [GUIDE, CYBERSECURITY]
 tags: [ CEH, Security, Network Security, DHCP]
-pin: True
+pin: False
 --- 
 
 When you connect to a corporate network, your device shouts into the void for an IP address. The DHCP server hears this and hands one out from its limited pool.
@@ -22,7 +22,7 @@ Using network tools like **Yersinia**, the attacker floods the network with thou
 
 The network is now paralyzed. When a legitimate employee connects, the real DHCP server ignores them because its pool is empty.
 
-Enter the trap: The attacker spins up a **Rogue DHCP Server**. When the employee asks for an IP, the attacker's server responds. It happily hands over an IP address, but with a malicious twist—it sets the network's **Default Gateway** to the attacker's IP.
+Enter the trap: The attacker spins up a **Rogue DHCP Server**. When the employee asks for an IP, the attacker's server responds. It happily hands over an IP address, but with a malicious twist,it sets the network's **Default Gateway** to the attacker's IP.
 
 ## The Execution: Man-in-the-Middle (MitM)
 
