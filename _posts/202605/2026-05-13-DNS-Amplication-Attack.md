@@ -31,7 +31,7 @@ Because DNS (the internet's phonebook) runs on UDP, an attacker can easily **spo
 ## The Attack: Small Question, Massive Answer
 
 **Step 1: Finding the Amplifiers**
-The attacker scans the internet for "Open DNS Resolvers"—misconfigured DNS servers that will answer queries from absolutely anyone.
+The attacker scans the internet for "Open DNS Resolvers" misconfigured DNS servers that will answer queries from absolutely anyone.
 
 **Step 2: The Spoofed Query**
 The attacker sends a DNS request to the Open Resolver. But they don't ask for a simple IP address. They ask for the `ANY` record of a massive domain (like a government site or a major tech company), which contains cryptographic keys, mail routing data, and text records.
@@ -39,7 +39,7 @@ The attacker sends a DNS request to the Open Resolver. But they don't ask for a 
 And, crucially, they spoof the source IP so it looks like the *victim's server* is the one asking the question.
 
 **Step 3: The Amplification**
-The attacker’s query is tiny—maybe **60 bytes** of data.
+The attacker’s query is tiny maybe **60 bytes** of data.
 But the Open Resolver's answer containing the `ANY` record? That could be **3,000+ bytes**.
 
 This is an **amplification factor of 50x**.
