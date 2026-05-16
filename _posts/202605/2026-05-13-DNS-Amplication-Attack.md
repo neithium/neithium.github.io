@@ -66,3 +66,4 @@ Because the traffic hitting the victim consists of entirely legitimate DNS respo
 * **Mitigation:** Network Ingress Filtering (BCP38) and properly securing DNS resolvers.
 
  
+ 
