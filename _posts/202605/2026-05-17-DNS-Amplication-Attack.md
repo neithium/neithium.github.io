@@ -5,7 +5,7 @@ description: >-
 date: 2026-05-17 00:00:00 +0530
 categories: [GUIDE, CYBERSECURITY]
 tags: [ CEH, Security, Network Security, DNS]
-pin: True
+pin: False
 --- 
 
 ## The Prank Call Analogy
