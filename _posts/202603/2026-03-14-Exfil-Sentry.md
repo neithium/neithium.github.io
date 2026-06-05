@@ -139,7 +139,7 @@ If you do check it out, the best feedback you can give me is:
 
 ## Repo / getting started
 
-Repository: **[Anorak001/Exfil-Sentry](https://github.com/Anorak001/Exfil-Sentry)**
+Repository: **[neithium/Exfil-Sentry](https://github.com/neithium/Exfil-Sentry)**
 
 The project is containerized with Docker Compose. Once cloned, you can bring it up with:
 

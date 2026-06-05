@@ -10,7 +10,7 @@ pin: false
 ---
 
 ## What is DOM Based XSS?
-DOM Based [XSS](https://github.com/Anorak001/Anorak001.github.io/blob/main/_posts/202411/2024-11-09-xss1.md) (or as it is called in some texts, “type-0 XSS”) is an XSS attack wherein the attack payload is executed as a result of modifying the DOM “environment” in the victim’s browser used by the original client side script, so that the client side code runs in an “unexpected” manner. That is, the page itself (the HTTP response that is) does not change, but the client side code contained in the page executes differently due to the malicious modifications that have occurred in the DOM environment.
+DOM Based [XSS](https://github.com/neithium/neithium.github.io/blob/main/_posts/202411/2024-11-09-xss1.md) (or as it is called in some texts, “type-0 XSS”) is an XSS attack wherein the attack payload is executed as a result of modifying the DOM “environment” in the victim’s browser used by the original client side script, so that the client side code runs in an “unexpected” manner. That is, the page itself (the HTTP response that is) does not change, but the client side code contained in the page executes differently due to the malicious modifications that have occurred in the DOM environment.
 
 
 This is in contrast to other XSS attacks (stored or reflected), wherein the attack payload is placed in the response page (due to a server side flaw).

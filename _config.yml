@@ -25,10 +25,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://Anorak001.github.io"
+url: "https://neithium.github.io"
 
 github:
-  username: Anorak001 # change to your GitHub username
+  username: neithium # change to your GitHub username
 
 
 
@@ -40,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/manthan67323 # change to your Twitter homepage
-    - https://github.com/Anorak001 # change to your GitHub homepage
+    - https://github.com/neithium # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/manthan67323
@@ -124,7 +124,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: anorak001/anorak001.github.io
+    repo: neithium/neithium.github.io
     repo_id: R_kgDONbvlTA
     category: General
     category_id: DIC_kwDONbvlTM4ClG3F

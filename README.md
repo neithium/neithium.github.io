@@ -13,7 +13,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 To run this site locally, follow these steps to 
  **Clone the Repository**
    ```bash
-   git clone https://github.com/Anorak001/Anorak001.github.io.git
+   git clone https://github.com/neithium/neithium.github.io.git
    ```
 
 

@@ -37,7 +37,7 @@ To solve this, **PConT** automates the entire process. Below, you'll find steps 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Anorak001/PConT.git
+git clone https://github.com/neithium/PConT.git
 ```
 
 ### Step 2: Make Scripts Executable
@@ -86,6 +86,6 @@ sudo apt install proxychains
 
 ### Feedback
 
-Your feedback is valuable! If you encounter issues or have suggestions, feel free to contribute or raise an issue on the [GitHub repo](https://github.com/Anorak001/PConT).
+Your feedback is valuable! If you encounter issues or have suggestions, feel free to contribute or raise an issue on the [GitHub repo](https://github.com/neithium/PConT).
 
 Happy proxy chaining! 🚀
