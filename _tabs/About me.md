@@ -17,4 +17,4 @@ I will strive to post content regularly and keep it as up-to-date as possible. I
 
 If you find my projects helpful, please consider sponsoring me on GitHub:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-🤍-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Anorak001)
+[![Sponsor](https://img.shields.io/badge/Sponsor-🤍-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/neithium)
