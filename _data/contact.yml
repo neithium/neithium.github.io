@@ -5,16 +5,17 @@
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: true
+  url: "mailto:neithium@proton.me"  # ← Add this line with your actual email
 
 - type: linkedin
   icon: "fa-brands fa-linkedin"
   noblank: true 
-  url: "https://www.linkedin.com/in/manthan67323"
+  url: "https://www.linkedin.com/in/neithium"
 
 - type: discord
   icon: "fa-brands fa-discord"
-  url: "https://discord.com/users/Darksouls001" # Replace with correct format if needed
+  url: "https://discord.com/users/neithium" # Replace with correct format if needed
 
 
 

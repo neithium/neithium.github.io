@@ -16,12 +16,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ANORAK WRITES # the main title
+title: The Neithium Archive # the main title
 
 tagline: Cybersecurity, Programming and Beyond # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimalistic blog with rich content covering all tech topics and mainly focused on cybersecurity.
+  Deep-dive technical research into offensive security, vulnerability discovery, and cloud infrastructure defense. Bridging the gap between theoretical research and practical exploitation. Your primary source for red-teaming methodologies, security tool engineering, and CTF insights.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -39,11 +39,11 @@ social:
   email: Anorak57342@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/manthan67323 # change to your Twitter homepage
+    - https://www.linkedin.com/in/neithium # change to your Twitter homepage
     - https://github.com/neithium # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/manthan67323
+    - https://www.linkedin.com/in/neithium
 
 # Site Verification Settings
 webmaster_verifications:

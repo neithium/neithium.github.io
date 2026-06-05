@@ -5,7 +5,7 @@ order: 2
 ---
 Hi there!
 
-I’m **Manthan R M**. You can learn more about me by visiting my **[LinkedIn profile](https://www.linkedin.com/in/manthan67323/)**.
+I’m **Manthan**. You can learn more about me by visiting my **[LinkedIn profile](https://www.linkedin.com/in/neithium/)**.
 
 I started this blog because I believe that sharing knowledge not only benefits others but also positively impacts us by providing opportunities for mutual learning. I usually write blogs related to the domain of cybersecurity. However, I also occasionally cover other topics.
 
