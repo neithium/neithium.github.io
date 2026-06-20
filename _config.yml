@@ -35,15 +35,16 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Manthan R M
+  name: Neithium
   email: neithium@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/neithium # change to your Twitter homepage
+    - https://x.com/Neithium
+    - https://www.linkedin.com/in/neithium  
     - https://github.com/neithium # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/neithium
+   
 
 # Site Verification Settings
 webmaster_verifications:
