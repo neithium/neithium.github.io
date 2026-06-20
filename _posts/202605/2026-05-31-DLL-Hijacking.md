@@ -5,7 +5,7 @@ description: >-
 date: 2026-05-31 00:00:00 +0530 
 categories: [GUIDE, CYBERSECURITY]
 tags: [ CEH, Security, System Hacking, Privilege Escalation]
-pin: True
+pin: False
 --- 
  
 
